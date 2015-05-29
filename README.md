@@ -1,0 +1,2 @@
+# fastgoson
+go json
